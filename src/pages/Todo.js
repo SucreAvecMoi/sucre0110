@@ -3,7 +3,7 @@ import React from 'react';
 import axios from 'axios';
 
 const Todo = () => {
-    const [data, setData] = React.useState();
+    const [, setData] = React.useState();
     const [todoList, setTodoList] = React.useState([]);
     const [editItem, setEditItem] = React.useState(null);
 

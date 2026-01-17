@@ -1,9 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import React from "react";
-import { Button } from "antd";
 import Header from "./components/Header";
-import Body from "./components/Body";
 import Project from "./pages/Project";
 import ProjectManager from "./pages/ProjectManager";
 import About from "./pages/About";
@@ -15,9 +11,6 @@ import { Provider } from "react-redux";
 import store from "./store/index";
 
 function App() {
-  function originClick() {
-    alert("hello world from origin button");
-  }
   return (
     <Provider store={store}>
       <div className="App">

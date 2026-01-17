@@ -1,7 +1,6 @@
 import { Button } from 'antd';
 import React, { useEffect } from 'react';
 import store from '../store/index';
-import useSelection from 'antd/es/table/hooks/useSelection';
 import { useSelector } from 'react-redux';
 import { setTemprature } from '../store/weather';
 

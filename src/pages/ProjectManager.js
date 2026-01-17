@@ -1,7 +1,6 @@
 import { Form } from "antd";
 import React, { useEffect, useState } from "react";
 import { Input, Button } from "antd";
-import { Routes, Route, Link, Outlet } from "react-router-dom";
 import axios from "axios";
 
 const ProjectManager = () => {
