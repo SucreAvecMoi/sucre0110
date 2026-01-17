@@ -1,0 +1,12 @@
+.slide {
+    width: 100%;
+    height: 100%;   
+}
+
+.personal-info {
+    background-color: green;
+} 
+
+.hobby-info {
+    background-color: blue;
+}

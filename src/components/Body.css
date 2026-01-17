@@ -1,0 +1,16 @@
+.body {
+    flex: 1;
+    background-color: #adc7ef;
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    width: 200px;
+    background-color: rgb(23, 11, 63);
+}
+
+.center {
+    flex: 1;
+    background-color: #ffffff;
+}

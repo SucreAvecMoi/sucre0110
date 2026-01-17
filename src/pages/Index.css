@@ -1,0 +1,11 @@
+.swiper-switch-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: white !important;
+    z-index: 1000 !important;
+}
+
+.previous {
+    right: 120px;
+}

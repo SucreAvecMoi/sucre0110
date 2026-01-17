@@ -1,0 +1,11 @@
+.header {
+    height: 60px;
+    line-height: 60px;;
+    background-color: rgb(23, 11, 63);
+}
+
+a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
